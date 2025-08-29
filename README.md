@@ -76,10 +76,10 @@
 
 <p align="left">
   <a href="https://github.com/Vrajc/Rewear">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vrajc&repo=Joblink_final&theme=radical" alt="Rewear" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vrajc&repo=Rewear&theme=radical" alt="Rewear" />
   </a>
   <a href="https://github.com/Vrajc/invisibilityCloak">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vrajc&repo=AI-voice-Assistant&theme=radical" alt="invisibilityCloak" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vrajc&repo=invisibilityCloak&theme=radical" alt="invisibilityCloak" />
   </a>
 </p>
 

@@ -37,8 +37,6 @@
 * 📫 How to reach me: **[vrajc494@gmail.com](mailto:vrajc494@gmail.com)**
 * 👨‍💻 All of my projects are available at: **[https://github.com/Vrajc](https://github.com/Vrajc)**
 * 📝 I regularly write articles on: **[https://www.linkedin.com/in/vraj-chauhan07/](https://www.linkedin.com/in/vraj-chauhan07/)**
-* 📄 Know about my experiences: **[Resume](https://drive.google.com/file/d/1R8tbdFgTfEo0pNDw59nCC99NPcodcon2/view?usp=sharing)**
-* ⚡ Fun fact: *I think I am funny 😄*
 
 ---
 
